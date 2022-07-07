@@ -10,7 +10,5 @@ public class TestStaticProperty {
         Car car3 = new Car("xecutcit3'","400");
         System.out.println(Car.numberOfCars);
 
-
-
     }
 }
